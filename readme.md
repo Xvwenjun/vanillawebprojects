@@ -1,11 +1,11 @@
-# 20+ Web Projects With Vanilla JavaScript
+# 20多个使用原生 JavaScript 实现的 Web 项目
 
 This is the main repository for all of the projects in the course.
 
-- [Course Link](https://www.udemy.com/course/web-projects-with-vanilla-javascript/?referralCode=F9B7C7FED834F91ADE75)
+- [Course Link](https://www.udemy.com/course/web-projects-with-vanilla-javascript/)
 - [Course Info Website](https://vanillawebprojects.com)
 
-|  #  |            Project             | Live Demo |
+|  #  |            项目             | 在线演示 |
 | :-: | :----------------------------: | :-------: |
 | 01  |       [Form Validator](https://github.com/bradtraversy/vanillawebprojects/tree/master/form-validator)       | [Live Demo](https://vanillawebprojects.com/projects/form-validator/)  |
 | 02  |     [Movie Seat Booking](https://github.com/bradtraversy/vanillawebprojects/tree/master/movie-seat-booking)    | [Live Demo](https://vanillawebprojects.com/projects/movie-seat-booking/)  |
@@ -29,4 +29,5 @@ This is the main repository for all of the projects in the course.
 | 20  | [Speak Number Guessing Game](https://github.com/bradtraversy/vanillawebprojects/tree/master/speak-number-guess) | [Live Demo](https://vanillawebprojects.com/projects/speak-number-guess/)  |
 
 
-NOTE ON PULL REQUESTS: All of these projects are part of the course. While I do appreciate people trying to make some things prettier or adding new features, we are only accepting pull requests and looking at issues for bug fixes so that the code stays inline with the course
+PULL REQUESTS 注意事项: 所有这些项目都是课程的一部分。 
+虽然我的确很感谢人们尝试使某些事情变得更漂亮或添加新功能，但我们仅接受请求请求并查看错误修复问题，以便使代码与课程保持一致

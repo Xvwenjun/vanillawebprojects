@@ -1,4 +1,4 @@
-# 20 多个使用原生 JavaScript 实现的 Web 项目
+# 20 个使用原生 JavaScript 实现的 Web 项目
 
 这是课程中所有项目的主要仓库。
 
